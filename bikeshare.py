@@ -13,7 +13,7 @@ def get_filters():
     Returns:
         (str) city - name of the city of the to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
-        (str) day - name of the day of week to filter by, or "all" to apply no day filter
+        (str) day - name of the day of the week of week to filter by, or "all" to apply no day filter
     """
 
     print('\nHello! Let\'s explore some US bikeshare data!')
