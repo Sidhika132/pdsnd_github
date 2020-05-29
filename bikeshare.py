@@ -7,7 +7,7 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
               'Washington': 'washington.csv' }
 
 
-def get_filters():
+def get_newfilters():
     """
     Asks user to specify a city, month, and day to analyze.
     Returns:
