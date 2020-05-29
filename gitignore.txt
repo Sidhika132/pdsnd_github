@@ -1,3 +1,0 @@
-Chicago.csv
-New_York_City.csv
-washington.csv
